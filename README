@@ -1,0 +1,6 @@
+### install all packages 
+$ yarn install 
+
+% ### add to specific workspace
+% $ yarn workspace back-end / front-end add package_name
+
